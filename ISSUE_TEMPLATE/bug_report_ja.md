@@ -5,9 +5,11 @@ title: ''
 labels: 'bug'
 assignees: ''
 ---
+
 ### バグについての説明
 
 ### バグを再現するための50行以下のvimrc
+
 ```vim
 ```
 

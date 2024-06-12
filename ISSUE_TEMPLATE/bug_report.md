@@ -9,6 +9,7 @@ assignees: ''
 ### Describe the bug
 
 ### Provide a minimal vimrc with less than 50 lines to reproduce
+
 ```vim
 ```
 
