@@ -23,8 +23,9 @@ assignees: ''
 
 ### Your environment
 
-- OS:
-- Vim version:
-- Denops version:
+- OS: `uname -a` (macOS/Linux) or `ver` (Windows)
+- Deno version: `deno --version`
+- Vim/Neovim version: `vim --version` or `nvim --version`
+- Denops version: `git log -1` (run in the denops.vim repository)
 
 ### Additional context
